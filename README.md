@@ -1,18 +1,22 @@
 # wallpaper-changer
 
-> A Vue.js project
+> An electron-vue project
 
-## Build Setup
+#### Build Setup
 
 ``` bash
 # install dependencies
 npm install
 
-# serve with hot reload at localhost:8080
+# serve with hot reload at localhost:9080
 npm run dev
 
-# build for production with minification
+# build electron application for production
 npm run build
+
+
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+---
+
+This project was generated with [electron-vue](https://github.com/SimulatedGREG/electron-vue) using [vue-cli](https://github.com/vuejs/vue-cli). Documentation about the original structure can be found [here](https://simulatedgreg.gitbooks.io/electron-vue/content/index.html).
